@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Incessant is an adjective which refers to "continuing without pause or interruption" and Meraki is a greek word that
-means "doing something with passion and soul."
-
 Hello World ! I am Ashwin, a third year Computer Science student. This contents of this blog will mainly
 evolve around the things related to computer that I come through and experiment. These things being:
 
