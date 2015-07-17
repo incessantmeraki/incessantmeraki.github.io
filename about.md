@@ -1,19 +1,20 @@
 ---
 layout: page
-title: About Pixyll
+title: About 
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Incessant is an adjective which refers to "continuing without pause or interruption" and Meraki is a greek word that
+means "doing something with passion and soul."
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Hello World ! I am Ashwin, a third year Computer Science student. This contents of this blog will mainly
+evolve around the things related to computer that I come through and experiment. These things being:
 
-Thanks to the following:
+* C/C++ (System Programming and Competitive Programming)
+* Linux (I use Ubuntu 14.04)
+* Web Programming ( Node.js )
+* Computer Networking
+* Mathematics(Specially Discrete Mathematics)
+* Puzzles (interesting puzzles that i come through)
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+The design of this blog is based on [Pixyll](http://www.pixyll.com)
