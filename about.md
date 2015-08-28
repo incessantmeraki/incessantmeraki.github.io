@@ -12,7 +12,7 @@ evolve around the things related to computer that I come through and experiment.
 * Linux 
 * Web Programming 
 * Computer Networking
-* Mathematics(
+* Mathematics
 * Puzzles 
 
 *The design of this blog is based on [Pixyll](http://www.pixyll.com)*
