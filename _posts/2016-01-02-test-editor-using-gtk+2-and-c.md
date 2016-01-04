@@ -36,7 +36,7 @@ Due to my background in GUI using C being limited, I had to search and select su
 After some googling, I found **GTK** to be one of the most popular tool for making GUI programs and C was one of the many languages which GTK had provided API to work with. I decided to give it a try.I opened their official page and after a while I came across easy to follow [tutorial](http://zetcode.com/gui/gtk2) from Zetcode. 
 
 ## Planning
-I played with GTK for a while following Zetcode's tutorial. Their tutorial showed the usage of common elements provided by GTK.I started experimenting with GTK widgets.This went on for some hours until I came to my sense. I came to conclusion that this aproaach was good in terms of experimenting with the tool, but was highly inefficient in terms of time. The solution to this problem turned out to be actual *starting point* in the process of making the software.
+I played with GTK for a while following Zetcode's tutorial. Their tutorial showed the usage of common elements provided by GTK.I started experimenting with GTK widgets.This went on for some hours until I came to my sense. I came to conclusion that this approach was good in terms of experimenting with the tool, but was highly inefficient in terms of time. The solution to this problem turned out to be actual *starting point* in the process of making the software.
 
 Due to time limitation, I decided to play with tools that are just required for the text editor.To determine this , I drew the basic layout of  of the text editor that I had in my mind. Then i started figuring out the widgets that's required to make the tool. 
 
