@@ -7,7 +7,7 @@ summary:    My experience in creating a text editor using GTK and C within a wee
 categories: programming gui gtk c texteditor
 ---
 
-![1]({{ site.url }}/sedit/main.png)
+![1]({{ site.url }}/images/sedit/main.png)
 
 This article describes my experience in making a minimal GUI based text editor using C and GTK+2. It took me roughly seven days working 1-2 hours per day to make the entire thing up and running. This project was actually an assignment of one my my 5th semester subject **System Software**. 
 
@@ -40,31 +40,31 @@ I played with GTK for a while following Zetcode's tutorial. Their tutorial showe
 
 Due to time limitation, I decided to play with tools that are just required for the text editor.To determine this , I drew the basic layout of  of the text editor that I had in my mind. Then i started figuring out the widgets that's required to make the tool. 
 
-![2]({{ site.url }}/sedit/planning1.jpg)
+![2]({{ site.url }}/images/sedit/planning1.jpg)
 
 To figure out the widgets,I manually(could have made a script if time was not a factor) listed down the list of tools for which the tutorial were provided. Then,  i started marking the tools required and only followed the tutorials for the required widgets.
 
-![3]({{ site.url }}/sedit/planning2.jpg)
+![3]({{ site.url }}/images/sedit/planning2.jpg)
 
 I decided to name the program **sedit** which stands for simple edit. 
 
 ### Development
 
-![4]({{ site.url }}/sedit/development.jpg)
+![4]({{ site.url }}/images/sedit/development.jpg)
 
 I divided the development of the actual program into four phases. Each phase involved completing certain feature which was accomplished after playing with the tool and implementing it immediately in the text editor.Along with the Zetcode's Tutorial, I frequently referred to [official documentation](https://developer.gnome.org/gtk2/stable/) to get clear picture of underlying code. 
 
 ##### Phase I
 
-![5]({{ site.url }}/sedit/phase1a.png)
+![5]({{ site.url }}/images/sedit/phase1a.png)
 
-![6]({{ site.url }}/sedit/phase1b.png)
+![6]({{ site.url }}/images/sedit/phase1b.png)
 
-![7]({{ site.url }}/sedit/phase1c.png)
+![7]({{ site.url }}/images/sedit/phase1c.png)
 
-![8]({{ site.url }}/sedit/phase1d.png)
+![8]({{ site.url }}/images/sedit/phase1d.png)
 
-![9]({{ site.url }}/sedit/phase1e.png)
+![9]({{ site.url }}/images/sedit/phase1e.png)
 
 The first phase had to do with the look and feel of the program. It involved putting each and every element and gluing them together into a large picture that make sense. 
 
@@ -72,26 +72,26 @@ After this phase was over, I got a picture of how real world GUI applications ma
 
 ##### Phase II
 
-![10]({{ site.url }}/sedit/phase2a.png)
+![10]({{ site.url }}/images/sedit/phase2a.png)
 
 The second phase was the longest phase. It mainly consisted of programming. In this phase, I worked with area where actual text editing took place, *textviewer*. 
 
 I was fortunate in finding [this](http://www.bravegnu.org/gtktext/gtktext-0.4.html) tutorial which explained text editing widgets clearly and concisely. In this phase, I got to experience the main element of text editor, buffer, and play with the buffer using things such as iterator and mark. Also, the features such as Copy, Cut, and paste were implemented in this phase.
 
 ##### Phase III
-![11]({{ site.url }}/sedit/phase3a.png)
+![11]({{ site.url }}/images/sedit/phase3a.png)
 
-![12]({{ site.url }}/sedit/phase3b.png)
+![12]({{ site.url }}/images/sedit/phase3b.png)
 
-![13]({{ site.url }}/sedit/phase3c.png)
+![13]({{ site.url }}/images/sedit/phase3c.png)
 
 This phase involved playing with additional tools and widgets. I completed the About dialog and options menu in this phase. Options menu provided options for configuring the font and searching a text. Implementing the search feature was interesting as it involved further working with the text buffer and iterator. 
 
 ##### Phase IV
 
-![14]({{ site.url }}/sedit/phase4a.png)
+![14]({{ site.url }}/images/sedit/phase4a.png)
 
-![15]({{ site.url }}/sedit/phase4b.png)
+![15]({{ site.url }}/images/sedit/phase4b.png)
 
 This final phase was a wind up session where remaining features such as opening and saving a file was completed and some testing was performed. Being a minimal software, testing was not so challenging. The final touch was given to the code structure and main look before the first fully featured editor was compiled. 
 
