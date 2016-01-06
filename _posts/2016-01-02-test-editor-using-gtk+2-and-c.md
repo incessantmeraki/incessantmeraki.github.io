@@ -66,9 +66,9 @@ I divided the development of the actual program into four phases. Each phase inv
 
 ![9]({{ site.url }}/images/sedit/phase1e.png)
 
-The first phase had to do with the look and feel of the program. It involved putting each and every element and gluing them together into a large picture that make sense. 
+The first phase had to do with the look and feel of the program. It involved putting each and every element and gluing them together into a large picture that makes sense. 
 
-After this phase was over, I got a picture of how real world GUI applications made by laying out each elements one by one. Along with the Main File Menu and Menu Items, I also implemented Status bar in this phase which displays the the position of cursor in the text editor.
+After this phase was over, I got a picture of how real world GUI applications are made by laying out each elements one by one. In this phase along with the menu items, I implemented Status bar as well . Status bar displays the the position of cursor in the text editor.
 
 ##### Phase II
 
