@@ -2,7 +2,7 @@
 layout:     post
 title:      Duplex stream and TCP connection
 date:       2017-02-10 12:00:00
-summary:    This article describes duplex stream in nodejs in brief. I have demonstrated how duplex stream is used to establish connections between two processes using socket.
+summary:    This article describes duplex stream in nodejs in brief. I have demonstrated how duplex stream is used as a medium of sending data among nodes in a network. This duplex stream is returned as socket.
 categories: programming nodejs stream net tcp sockets client-server
 ---
 
