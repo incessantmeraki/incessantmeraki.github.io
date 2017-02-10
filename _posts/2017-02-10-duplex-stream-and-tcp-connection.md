@@ -7,6 +7,7 @@ categories: programming nodejs stream net tcp sockets client-server
 ---
 
 Stream is one of the coolest abstraction provided by the nodejs core.There are three types of stream:  
+
 - Readable 
 - Writable 
 - Readable + Writable 
