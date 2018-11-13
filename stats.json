@@ -1,0 +1,70 @@
+{
+  "assetsByChunkName": {
+    "path---text-editor-using-gtk-2-and-c": [
+      "path---text-editor-using-gtk-2-and-c-b3891d9f2c66d88c9095.js",
+      "path---text-editor-using-gtk-2-and-c-b3891d9f2c66d88c9095.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-3d1cceeb10eb5e8c780e.js",
+      "component---src-pages-index-js-3d1cceeb10eb5e8c780e.js.map"
+    ],
+    "path---": [
+      "path----8f6fee8f8b30d2d4236a.js",
+      "path----8f6fee8f8b30d2d4236a.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-6a63c767e05f415dd70b.js",
+      "component---src-templates-blog-post-js-6a63c767e05f415dd70b.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-1f0e2cbb4e4df0d5ada0.js",
+      "component---src-layouts-index-js-1f0e2cbb4e4df0d5ada0.js.map"
+    ],
+    "path---index": [
+      "path---index-36d415e65f0b36457b31.js",
+      "path---index-36d415e65f0b36457b31.js.map"
+    ],
+    "component---src-pages-my-files-js": [
+      "component---src-pages-my-files-js-36fe9611e2085ccce9f7.js",
+      "component---src-pages-my-files-js-36fe9611e2085ccce9f7.js.map"
+    ],
+    "path---my-files": [
+      "path---my-files-6c0328a6330a622dfd11.js",
+      "path---my-files-6c0328a6330a622dfd11.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-6c0ef392e4fd8dcd59bb.js",
+      "component---src-pages-404-js-6c0ef392e4fd8dcd59bb.js.map"
+    ],
+    "commons": [
+      "commons-ba4cb63d6a7a0250cd9f.js",
+      "commons-ba4cb63d6a7a0250cd9f.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-9b48e2ae0acee9dd9ae3.js",
+      "build-js-styles.css",
+      "app-9b48e2ae0acee9dd9ae3.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---duplex-stream-and-tcp-connection": [
+      "path---duplex-stream-and-tcp-connection-34612fa59820e6426b89.js",
+      "path---duplex-stream-and-tcp-connection-34612fa59820e6426b89.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-85b708799c4a2b7167e7.js",
+      "component---src-pages-about-js-85b708799c4a2b7167e7.js.map"
+    ],
+    "path---about": [
+      "path---about-3227a9700977a49422ca.js",
+      "path---about-3227a9700977a49422ca.js.map"
+    ]
+  }
+}
