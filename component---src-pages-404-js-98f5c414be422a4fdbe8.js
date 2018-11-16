@@ -1,2 +1,0 @@
-webpackJsonp([0x9427c64ab85d],{199:function(e,t){"use strict";t.__esModule=!0,t.default=function(){return React.createElement("div",null,"What you're looking for is not there ...")},e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-404-js-98f5c414be422a4fdbe8.js.map

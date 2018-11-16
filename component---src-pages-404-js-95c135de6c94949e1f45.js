@@ -1,2 +1,0 @@
-webpackJsonp([0x9427c64ab85d],{199:function(e,t,u){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.default=function(){return l.default.createElement("div",{className:"lh-solid --dark-red "},"NOT FOUND")};var d=u(4),l=a(d);e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-404-js-95c135de6c94949e1f45.js.map
